@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import type { FormEvent } from 'react'
 import './App.css'
-import logo from './assets/QuikookLogo.png'
-import banner from './assets/QuikookBannerImage.png'
+import logo from './assets/QwikookLogo.png'
+import banner from './assets/QwikookBannerImage.png'
 
 const recipes = [
   { title: 'Masala paneer toast', tag: 'Under 15 min', time: '12 min', accent: 'saffron', description: 'Crisp, cheesy and loaded with a punchy masala filling.' },
